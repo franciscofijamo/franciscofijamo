@@ -1,4 +1,5 @@
-# Hi there! I'm a 🤓 Data and Analytics enthusiast 👋
+# Hi there! I'm a Data Scientist enthusiast
+
 Welcome to my GitHub profile! Here's a little bit about me:
 
 
